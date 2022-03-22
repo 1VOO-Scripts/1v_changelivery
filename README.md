@@ -1,5 +1,5 @@
 # 1v_changelivery
-Simple script to change vehicle livery, with cool suggestions.
+Simple script to change vehicle livery, with cool chat suggestions.
 
 Feel free to edit it, but please don't reupload it.
 
