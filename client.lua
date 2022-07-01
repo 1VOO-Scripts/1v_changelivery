@@ -22,7 +22,7 @@ end)
 
 CreateThread(function()
     while true do
-        Citizen.Wait(4000)
+        Wait(4000)
         local ped = PlayerPedId()
         local veh = GetVehiclePedIsIn(ped, false)
         local count = GetVehicleLiveryCount(veh)
